@@ -55,6 +55,7 @@ input[type="submit"]{
 .resultado h2 {
     font-weight: bold;
     color: white;
+    text-align: center;
 }
 
 
